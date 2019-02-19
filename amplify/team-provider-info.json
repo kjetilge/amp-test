@@ -1,0 +1,14 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amp-test-20190219231356-authRole",
+            "UnauthRoleArn": "arn:aws:iam::340184492602:role/amp-test-20190219231356-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::340184492602:role/amp-test-20190219231356-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amp-test-20190219231356-deployment",
+            "UnauthRoleName": "amp-test-20190219231356-unauthRole",
+            "StackName": "amp-test-20190219231356",
+            "StackId": "arn:aws:cloudformation:eu-west-1:340184492602:stack/amp-test-20190219231356/a69a55c0-3493-11e9-8423-02925b9a5d4e"
+        }
+    }
+}
